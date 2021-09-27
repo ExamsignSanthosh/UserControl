@@ -1,0 +1,17 @@
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\bin\Debug\NewSampleControl.exe.config
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\bin\Debug\NewSampleControl.exe
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\bin\Debug\NewSampleControl.pdb
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\MainWindow.g.cs
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\UserControl1.g.cs
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\App.g.cs
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl_MarkupCompile.cache
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl_MarkupCompile.lref
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\MainWindow.baml
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\UserControl1.baml
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl.g.resources
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl.Properties.Resources.resources
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl.csproj.GenerateResource.cache
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl.exe
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl.pdb
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ExamSign\source\repos\NewSampleControl\NewSampleControl\obj\Debug\NewSampleControl.csprojAssemblyReference.cache

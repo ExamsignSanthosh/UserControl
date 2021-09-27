@@ -1,0 +1,26 @@
+﻿<Window x:Class="NewSampleControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewSampleControl"
+        xmlns:Convert="clr-namespace:NewSampleControl.converter_"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Convert:WidthConveter x:Key="WidthConverter"></Convert:WidthConveter>
+    </Window.Resources>
+    <StackPanel x:Name="sss" Orientation="Horizontal">
+        <ListView x:Name="items" DataContext="{Binding style}" Width="600">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <local:UserControl1 x:Name="control" 
+                                        Subject="{Binding DataContext.Subject, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=ListBoxItem}}" Percentage="{Binding DataContext.Percent,RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=ListBoxItem}}" Width="300"  >
+                    </local:UserControl1>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackPanel>
+</Window>
